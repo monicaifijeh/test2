@@ -16,8 +16,6 @@ header {
 header h1 {
     margin: 0;
     font-size: 2.5rem;
-   color: #fff;
-   font-family: fantasy;
 }
 
 header p {
@@ -57,11 +55,10 @@ section {
 }
 
 footer {
-    position:relative;
+    position: f;
     text-align: center;
     padding: 10px;
     background-color: #333;
     color: #fff;
     font-size: 0.9rem;
-
 }
