@@ -24,7 +24,7 @@ header p {
 
 nav ul {
     display: flex;
-    justify-content: r;
+    justify-content: right;
     list-style: none;
     padding: 10px;
     background-color: #333;
