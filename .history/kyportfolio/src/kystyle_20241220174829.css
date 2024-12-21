@@ -18,7 +18,6 @@ header h1 {
     font-size: 2.5rem;
    color: #fff;
    font-family: fantasy;
-   margin-top: 17%;
 }
 .intro{
     color: aliceblue;
@@ -33,7 +32,7 @@ header p {
 
 nav ul {
     display: flex;
-    justify-content: center;
+    justify-content: right;
     list-style: none;
     padding: 10px;
     background-color: #3333338a;
@@ -57,9 +56,8 @@ nav ul li a:hover {
 
 main {
     padding: 20px;
-    box-sizing: border-box;
+    box-sizing: ;
     display: block;
-   
 }
 
 section {
@@ -67,12 +65,11 @@ section {
 }
 
 footer {
-    margin-top: 24%;
+    position:relative;
     text-align: center;
     padding: 10px;
     background-color: #333333b4;
     color: #fff;
     font-size: 0.9rem;
-    position: sticky;
 
 }
