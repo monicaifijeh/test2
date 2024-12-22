@@ -16,12 +16,12 @@ header {
 header h1 {
     margin: 0;
     font-size: 2.5rem;
-   color: #0d0c0c;
+   color: #fff;
    font-family: fantasy;
    margin-top: 17%;
 }
 .intro{
-    color: rgb(18, 18, 19);
+    color: aliceblue;
     text-align: center;
 }
 
