@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-background-image: url("kyportfolio/LotusImages/liliana-olivares-g56O5L0ZVmg-unsplash.jpg");
+background-image: url("/kyportfolio/images/freestocks-twVS-YjQn9Y-unsplash.jpg");
 background-repeat: no-repeat;
 background-size: cover;
 }
@@ -16,29 +16,23 @@ header {
 header h1 {
     margin: 0;
     font-size: 2.5rem;
-   color: #0d0c0c;
+   color: #fff;
    font-family: fantasy;
-   margin-top: 17%;
-}
-.intro{
-    color: rgb(18, 18, 19);
-    text-align: center;
 }
 
+
 header p {
-    color: aliceblue;
     margin: 10px 0;
     font-size: 1.2rem;
 }
 
 nav ul {
     display: flex;
-    justify-content: center;
+    justify-content: right;
     list-style: none;
     padding: 10px;
-    background-color: #3333338a;
+    background-color: #333;
     margin: 0;
-    position: sticky;
 }
 
 nav ul li {
@@ -57,9 +51,6 @@ nav ul li a:hover {
 
 main {
     padding: 20px;
-    box-sizing: border-box;
-    display: block;
-   
 }
 
 section {
@@ -67,12 +58,11 @@ section {
 }
 
 footer {
-    margin-top: 24%;
+    position:relative;
     text-align: center;
     padding: 10px;
-    background-color: #333333b4;
+    background-color: #333;
     color: #fff;
     font-size: 0.9rem;
-    position: sticky;
 
 }
